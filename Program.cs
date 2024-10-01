@@ -5,3 +5,4 @@
 Iphone apple = new Iphone("(83) 99999-8888");
 
 apple.Ligar();
+apple.InstalarAplicativo("whatsapp");
